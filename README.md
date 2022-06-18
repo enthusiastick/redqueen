@@ -15,7 +15,7 @@ Token | Character | Text
 ![Ravenkeeper](https://wiki.bloodontheclocktower.com/images/4/45/Ravenkeeper_Token.png) | **Ravenkeeper** | If you die at night, you are woken to choose a player: you learn their character.
 ![Seamstress](https://wiki.bloodontheclocktower.com/images/4/43/Seamstress_Token.png) | **Seamstress** | Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.
 ![Tea Lady](https://wiki.bloodontheclocktower.com/images/e/e7/Tea_Lady_Token.png) | **Tea Lady** | If both your alive neighbors are good, they can't die.
-![Town Crier](https://wiki.bloodontheclocktower.com/Town_Crier) | **Town Crier** | Each night*, you learn if a Minion nominated today.
+![Town Crier](https://wiki.bloodontheclocktower.com/images/8/85/Town_Crier_Token.png) | **Town Crier** | Each night*, you learn if a Minion nominated today.
 ![Virgin](https://wiki.bloodontheclocktower.com/images/5/5e/Virgin_Token.png) | **Virgin** | The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.
 
 ### Outsider
