@@ -33,7 +33,7 @@ Token | Character | Text
 --- | --- | ---
 ![Goblin](https://wiki.bloodontheclocktower.com/images/f/f4/Goblin_Token.png) | **Goblin** | If you publicly claim to be the Goblin when nominated & are executed that day, your team wins.
 ![Psychopath](https://wiki.bloodontheclocktower.com/images/c/cc/Psychopath_Token.png) | **Psychopath** | Each day, before nominations, you may publicly choose a player: they die. If executed, you only die if you lose roshambo.
-![Spy](https://wiki.bloodontheclocktower.com/images/3/31/Spy_Token.png) | **Spy** | Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.
+![Scarlet Woman](https://wiki.bloodontheclocktower.com/images/7/7c/Scarlet_Woman_Token.png) | **Scarlet Woman** | If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)
 ![Witch](https://wiki.bloodontheclocktower.com/images/c/cc/Witch_Token.png) | **Witch** | Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability.
 
 ### Demon
