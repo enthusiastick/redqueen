@@ -1,5 +1,7 @@
 # The Red Queen
 
+**JSON Link:** [https://raw.githubusercontent.com/enthusiastick/theredqueen/main/The_Red_Queen.json](https://raw.githubusercontent.com/enthusiastick/theredqueen/main/The_Red_Queen.json)
+
 ### Townsfolk
 
 Icon | Character | Text
