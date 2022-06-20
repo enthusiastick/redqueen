@@ -1,6 +1,6 @@
-# The Red Queen
+# Court of the Red Queen
 
-**JSON Link:** [https://raw.githubusercontent.com/enthusiastick/theredqueen/main/The_Red_Queen.json](https://raw.githubusercontent.com/enthusiastick/theredqueen/main/The_Red_Queen.json)
+**JSON Link:** [https://raw.githubusercontent.com/enthusiastick/theredqueen/main/Court_of_the_Red_Queen.json](https://raw.githubusercontent.com/enthusiastick/theredqueen/main/Court_of_the_Red_Queen.json)
 
 ### Townsfolk
 
