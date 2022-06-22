@@ -1,4 +1,4 @@
-# Court of the Red Queen
+![Court of the Red Queen](https://raw.githubusercontent.com/enthusiastick/theredqueen/main/img/Court_of_the_Red_Queen_title.png)
 
 **JSON Link:** [https://raw.githubusercontent.com/enthusiastick/theredqueen/main/Court_of_the_Red_Queen.json](https://raw.githubusercontent.com/enthusiastick/theredqueen/main/Court_of_the_Red_Queen.json)
 
