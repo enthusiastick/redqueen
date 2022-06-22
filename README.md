@@ -43,4 +43,4 @@ Icon | Character | Text
 Icon | Character | Text
 --- | --- | ---
 ![Pukka](https://wiki.bloodontheclocktower.com/images/7/74/Pukka_Icon.png) | **Pukka** | Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.
-![Red Queen](https://raw.githubusercontent.com/enthusiastick/theredqueen/main/img/redqueen-small.png) | **Red Queen** | Each night, choose a player: they are marked by the Queen. The previously marked player dies. A marked player cannot die by execution; only one player may be marked at a time.
+![Red Queen](https://raw.githubusercontent.com/enthusiastick/theredqueen/main/img/redqueen-small.png) | **Red Queen** | Each night, choose a player: they are marked by the Queen. The previously marked player dies. A marked player cannot die by execution; only one player may be marked at a time. You may only mark yourself once per game.
