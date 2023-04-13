@@ -2,6 +2,8 @@
 
 **JSON Link:** [https://raw.githubusercontent.com/enthusiastick/theredqueen/main/Court_of_the_Red_Queen.json](https://raw.githubusercontent.com/enthusiastick/theredqueen/main/Court_of_the_Red_Queen.json)
 
+**The Court of the Red Queen** is a custom script for *Blood on the Clocktower* featuring a single homebrew character (a Demon, the eponymous Red Queen.)
+
 ### Townsfolk
 
 Icon | Character | Text
