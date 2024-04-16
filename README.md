@@ -46,3 +46,9 @@ Icon | Character | Text
 --- | --- | ---
 ![Pukka](https://wiki.bloodontheclocktower.com/images/f/f4/Icon_pukka.png) | **Pukka** | Each night, choose a player: they are poisoned. The previously poisoned player dies then becomes healthy.
 ![Red Queen](https://raw.githubusercontent.com/enthusiastick/theredqueen/main/img/redqueen-small.png) | **Red Queen** | Each night, choose a player: they are marked by the Queen. The previously marked player dies. A marked player cannot die by execution; only one player may be marked at a time. If just 3 players live, and you have marked yourself, your team wins.
+
+### Fabled
+
+Icon | Character | Text
+--- | --- | ---
+![Bootlegger](https://wiki.bloodontheclocktower.com/images/0/08/Icon_bootlegger.png) | **Bootlegger** | This script has homebrew characters or rules.
